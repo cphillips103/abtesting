@@ -706,7 +706,7 @@ plt.legend();
 
 
     
-![png](output_57_0.png)
+![Histogram](https://github.com/cphillips103/abtesting/blob/main/images/output_57_0.png)
     
 
 
